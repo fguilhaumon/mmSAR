@@ -1,0 +1,13 @@
+Package: mmSAR
+Type: Package
+Title: mmSAR is an R package for the modelling of the Species-Area
+        Relationship (SAR).
+Version: 1.0
+Date: 2017-08-07
+Author: Francois Guilhaumon
+Maintainer: Francois Guilhaumon <francois.guilhaumon@ird.fr>
+Depends: R (>= 2.5.0), numDeriv, nortest
+Description: The mmSAR package implement the multimodel SAR paradigm and provides ecologists with user friendly functions fit SAR models and calculate multimodel SAR inference.
+License: GPL
+LazyLoad: yes
+Encoding: UTF-8

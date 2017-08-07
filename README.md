@@ -25,11 +25,7 @@ The mmSAR package implements the multimodel SAR paradigm and provides ecologists
 
 ## Reference
 
-> Guilhaumon, F, Mouillot, D and Gimenez, O. 2010. mmSAR : an R-package for multimodel species-area relationship inference - ECOGRAPHY 33: 420-424
+> [Guilhaumon, F, Mouillot, D and Gimenez, O. 2010. mmSAR : an R-package for multimodel species-area relationship inference - ECOGRAPHY 33: 420-424](http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0587.2010.06304.x/full)
 
-
-## Information
-
-There is not much here yet, a basic skeleton of the package should land somewhere this year (2015). For now, please go back to the R-forge ---> [here](http://mmsar.r-forge.r-project.org/)'[^_-]'
-
+---------------------------------------
 ⦿⟻▲.·´¯`·..><((((º>.·´¯`·.¸◎¸.·´¯`·...¸><((((º>
