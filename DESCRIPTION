@@ -6,7 +6,7 @@ Version: 1.0
 Date: 2017-08-07
 Author: Francois Guilhaumon
 Maintainer: Francois Guilhaumon <francois.guilhaumon@ird.fr>
-Depends: R (>= 2.5.0), numDeriv, nortest
+Depends: R (>= 3.0), numDeriv, nortest
 Description: The mmSAR package implement the multimodel SAR paradigm and provides ecologists with user friendly functions fit SAR models and calculate multimodel SAR inference.
 License: GPL
 LazyLoad: yes

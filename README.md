@@ -4,7 +4,7 @@ mmSAR next iteration
 
 ## Install
 
-You can get the curent 'stable' version of this package at the [R-forge](http://mmsar.r-forge.r-project.org/), or when more things will be available here, install the development version from GitHub
+Install directly from GitHub:
 
 
 ```r
@@ -22,6 +22,8 @@ library("mmSAR")
 `mmSAR` is a [`R`](http://www.r-project.org/) package for the modelling of the Species-Area Relationship (SAR).
 
 The mmSAR package implements the multimodel SAR paradigm and provides ecologists with user friendly functions to fit SAR models and calculate multimodel SAR inference.
+
+mmSAR is being rewritten 
 
 ## Reference
 
